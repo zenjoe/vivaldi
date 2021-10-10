@@ -1,17 +1,15 @@
-## NPWriter Developer kit
+## Vivaldi - Valideringsplugin
 
 ### Plugin documentation
-For a more detailed documentation on how to use the DevKit and develop
-plugins for the Infomaker Digital Writer see the
-[Writer developer documentation](https://docs.writer.infomaker.io/).
+Valideringsplugin Naviga - sn.dk - Sjællandske Medier 2021
 
 ### Get started overview
 
 Clone
 
 ```
-git clone git@github.com:Infomaker/NPWriterDevKit.git
-cd NPWriterDevKit
+git clone git@github.com:zenjoe/vivaldi.git
+cd vivaldi
 ```
 
 Install dependencies
