@@ -1,7 +1,7 @@
 {
     "name": "vivaldi",
     "version": "1.0.1",
-    "description": "Simple validation plugin Vivaldi - sn.dk - Sjællandske Medier",
+    "description": "Validation plugin Vivaldi - sn.dk - Sjællandske Medier",
     "main": "src/index.js",
     "scripts": {
         "start": "webpack-dev-server --config __tooling__/webpack/webpack.dev.js --hot --progress --watch",
@@ -11,18 +11,23 @@
         "release:hotfix": "npm version patch --no-git-tag-version",
         "postversion": "git add package.json package-lock.json && git commit -m \"Bump version to v$npm_package_version\""
     },
-    "repository": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zenjoe/vivaldi.git"
+    },
     "contributors": [
         {
             "name": "Joe Kniesek",
             "email": "joe.kniesek@sn.dk"
         }
     ],
-    "license": "GNU",
-    "bugs": {},
-    "homepage": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zenjoe/vivaldi/issues"
+    },
+    "homepage": "https://github.com/zenjoe/vivaldi#readme",
     "devDependencies": {
-        "@babel/cli": "^7.15.7",
+        "@babel/cli": "^7.8.4",
         "@babel/core": "^7.9.0",
         "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
         "@babel/plugin-transform-async-to-generator": "^7.4.4",
