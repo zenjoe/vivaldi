@@ -26,3 +26,8 @@ npm start
 
 _Specify port on dev server_ `PORT=1337 npm start`
 # vivaldi
+
+Naviga-Plugin-install
+ID: dk.sndk.vivaldi
+NAME: vivaldi
+
