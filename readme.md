@@ -8,7 +8,7 @@ Valideringsplugin Naviga - sn.dk - Sjællandske Medier 2021
 Clone
 
 ```
-git clone git@github.com:zenjoe/vivaldi.git
+git clone https://github.com/zenjoe/vivaldi.git
 cd vivaldi
 ```
 
