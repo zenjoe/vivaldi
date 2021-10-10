@@ -1,4 +1,4 @@
-## Vivaldi - Valideringsplugin
+## Vivaldi - Valideringsplugin - Joe Kniesek - Oktober 2021
 
 ### Plugin documentation
 Valideringsplugin Naviga - sn.dk - Sjællandske Medier 2021
