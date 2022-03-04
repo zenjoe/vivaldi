@@ -2,6 +2,8 @@
 
 ### Plugin documentation
 Valideringsplugin Naviga - sn.dk - Sjællandske Medier 2021
+Tjekker om brugeren udfylder "Område", vælger prioritet, og gør opmærksom på mangel på evt. kategori.
+Det kan gemmes/updates - brugeren kan ignorere beskederne.
 
 ### Get started overview
 
@@ -30,4 +32,9 @@ _Specify port on dev server_ `PORT=1337 npm start`
 Naviga-Plugin-install
 ID: dk.sndk.vivaldi
 NAME: vivaldi
+Plugin-placering: https://golden.sn.dk/diverse/naviga/Vivaldi/dist/index.js
+Ingen css
+
+
+
 
